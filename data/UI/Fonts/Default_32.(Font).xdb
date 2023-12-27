@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Font>
+	<Texture href="Default_32.(Texture).xdb#xpointer(/Texture)"/>
+	<uid>801FE687-74DC-4FA4-8124-F9A4C68FCA51</uid>
+	<Height>32</Height>
+	<Thickness>400</Thickness>
+	<Italic>false</Italic>
+	<Antialiased>true</Antialiased>
+	<Pitch>DEFAULT</Pitch>
+	<Charset>RUSSIAN</Charset>
+	<FaceName/>
+	<Name>Default</Name>
+	<CharactersFile href=""/>
+</Font>

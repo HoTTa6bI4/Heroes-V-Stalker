@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Font>
+	<Texture href="Header_26.(Texture).xdb#xpointer(/Texture)"/>
+	<uid>47809C0E-91C6-4F5D-841C-25D25B3B6B3F</uid>
+	<Height>26</Height>
+	<Thickness>400</Thickness>
+	<Italic>false</Italic>
+	<Antialiased>true</Antialiased>
+	<Pitch>DEFAULT</Pitch>
+	<Charset>RUSSIAN</Charset>
+	<FaceName/>
+	<Name>Header</Name>
+	<CharactersFile href=""/>
+</Font>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Font>
+	<Texture href="System_24.(Texture).xdb#xpointer(/Texture)"/>
+	<uid>CC157BDA-6BEF-4810-99AF-58A208554653</uid>
+	<Height>24</Height>
+	<Thickness>1000</Thickness>
+	<Italic>false</Italic>
+	<Antialiased>true</Antialiased>
+	<Pitch>DEFAULT</Pitch>
+	<Charset>RUSSIAN</Charset>
+	<FaceName>Grafitti 1 CTT</FaceName>
+	<Name>System</Name>
+	<CharactersFile href=""/>
+</Font>
