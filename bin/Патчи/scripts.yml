@@ -1,0 +1,36 @@
+# ----------------------------------------------------
+
+# ----------------- Enable scripts ---------------
+
+# ----------------------------------------------------
+
+#
+
+# Enable scripts in multiplayer with disabling of console
+#
+
+# ----------------------------------------------------
+
+# 
+
+#
+
+--- # ----------- ORIGINAL EXE 3.1 PATCH DATA ------------
+
+group: Original
+
+checkAddress:   00000400
+
+checkBytes:     8D 41 34 C3 CC CC CC CC
+
+patchAddress:   002082D0
+
+originalBytes:  0F 84 29 01 00 00
+patchBytes:     90 90 90 90 90 90
+---
+group: Original
+
+patchAddress:   002693FE
+
+originalBytes:  00
+patchBytes:     04
